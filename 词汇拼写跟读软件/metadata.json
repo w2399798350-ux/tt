@@ -1,7 +1,0 @@
-{
-  "name": "词汇拼写跟读软件",
-  "description": "A professional English vocabulary spelling and learning tool with syllable-divided IPA, multiple word libraries (New Concept, Basic, Daily), and progress tracking.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
